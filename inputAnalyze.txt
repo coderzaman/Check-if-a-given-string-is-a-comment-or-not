@@ -8,7 +8,7 @@ The input is a single-line comment.
 Enter the input: lksdhfjkl aslfkdj / sjfhadkjsa // sjkdfhskj
 The input is a single-line comment.
 
-For Multilen commnet Check
+For multi-line commnet Check
 Enter the input: /*fkjsdhfkj sajkdfh */
 The input is a multi-line comment.
 
