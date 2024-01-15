@@ -1,4 +1,4 @@
-# C++ Comment Detection
+# C, C++, Java Comment Detection
 
 This C++ program allows users to input a code snippet and determines whether it contains a single-line comment (`//`), a multi-line comment (`/* */`), or no comments at all. The program uses a stack-based approach to efficiently parse and identify different types of comments within the given input.
 
