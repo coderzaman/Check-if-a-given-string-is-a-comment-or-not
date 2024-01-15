@@ -1,0 +1,19 @@
+For signle line comment Check:
+Enter the input: //fhajkshfdaskjf asdf
+The input is a single-line comment.
+
+Enter the input: sahjkfhsdaf //fkjhsadkjfhsd
+The input is a single-line comment.
+
+Enter the input: lksdhfjkl aslfkdj / sjfhadkjsa // sjkdfhskj
+The input is a single-line comment.
+
+For Multilen commnet Check
+Enter the input: /*fkjsdhfkj sajkdfh */
+The input is a multi-line comment.
+
+Enter the input: fhsdjkafh  /*jkhfsadhf sdf sdfjkh sdsf */
+The input is a multi-line comment.
+
+Enter the input: safjksdahf /* skjfjksd /
+The input is not a comment.
